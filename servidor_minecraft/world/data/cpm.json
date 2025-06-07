@@ -4,7 +4,23 @@
   "__COMMENT3": "with the following name: cpm-server-default.json",
   "player_scaling": {
     "7ae39233-c114-3070-bb8b-0ac064bae7ae": {},
-    "cb8bcf2b-330a-397d-ad23-85e99d8e70a6": {}
+    "cb8bcf2b-330a-397d-ad23-85e99d8e70a6": {},
+    "dfb0fd86-f93e-3eea-b496-ceadd4970649": {}
   },
-  "skins": {}
+  "skins": {
+    "14aa20ff-6857-3dae-ba8a-62f121a2dd5b": {}
+  },
+  "player_scaling_settings": {},
+  "scaling_settings": {
+    "motion": {},
+    "mob_visibility": {},
+    "defense": {},
+    "attack_knockback": {},
+    "step_height": {},
+    "knockback_resist": {},
+    "reach": {},
+    "health": {},
+    "attack_speed": {},
+    "attack_dmg": {}
+  }
 }

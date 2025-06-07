@@ -12927,3 +12927,81 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 [07Jun2025 19:35:30.191] [Server thread/INFO] [Jade/]: Syncing config to manuelderosas14 (14aa20ff-6857-3dae-ba8a-62f121a2dd5b)
 [07Jun2025 19:36:29.952] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manuelderosas14 lost connection: Timed out
 [07Jun2025 19:36:29.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manuelderosas14 left the game
+[07Jun2025 19:36:48.110] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[07Jun2025 19:37:06.160] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3055ms or 61 ticks behind
+[07Jun2025 19:37:23.231] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: manuelderosas14[/127.227.209.234:52733] logged in with entity id 11447 at (-483.5, 63.0, -795.5)
+[07Jun2025 19:37:23.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manuelderosas14 joined the game
+[07Jun2025 19:37:23.653] [Server thread/INFO] [Jade/]: Syncing config to manuelderosas14 (14aa20ff-6857-3dae-ba8a-62f121a2dd5b)
+[07Jun2025 19:37:57.210] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Cleric'/6516, l='ServerLevel[world]', x=-791.39, y=93.81, z=-1343.28] died, message: 'Cleric was slain by Ice Dragon'
+[07Jun2025 19:37:57.317] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2012ms or 40 ticks behind
+[07Jun2025 19:38:15.709] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2004ms or 40 ticks behind
+[07Jun2025 19:38:23.317] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manuelderosas14 lost connection: Timed out
+[07Jun2025 19:38:23.318] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manuelderosas14 left the game
+[07Jun2025 19:38:53.411] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Armorer'/6588, l='ServerLevel[world]', x=-779.34, y=94.50, z=-1330.79] died, message: 'Armorer was pricked to death'
+[07Jun2025 19:39:16.501] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: manuelderosas14[/127.227.209.234:42071] logged in with entity id 12336 at (-483.5, 63.0, -795.5)
+[07Jun2025 19:39:16.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manuelderosas14 joined the game
+[07Jun2025 19:39:16.938] [Server thread/INFO] [Jade/]: Syncing config to manuelderosas14 (14aa20ff-6857-3dae-ba8a-62f121a2dd5b)
+[07Jun2025 19:40:16.618] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manuelderosas14 lost connection: Timed out
+[07Jun2025 19:40:16.618] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manuelderosas14 left the game
+[07Jun2025 19:40:40.864] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2009ms or 40 ticks behind
+[07Jun2025 19:41:08.166] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/6571, l='ServerLevel[world]', x=-789.59, y=93.50, z=-1342.08] died, message: 'Unemployed was pricked to death'
+[07Jun2025 19:41:20.491] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: manuelderosas14[/127.227.209.234:37649] logged in with entity id 13240 at (-483.5, 63.0, -795.5)
+[07Jun2025 19:41:20.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manuelderosas14 joined the game
+[07Jun2025 19:41:20.923] [Server thread/INFO] [Jade/]: Syncing config to manuelderosas14 (14aa20ff-6857-3dae-ba8a-62f121a2dd5b)
+[07Jun2025 19:41:30.333] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2028ms or 40 ticks behind
+[07Jun2025 19:41:48.381] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3075ms or 61 ticks behind
+[07Jun2025 19:42:06.752] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3397ms or 67 ticks behind
+[07Jun2025 19:42:09.243] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manuelderosas14 lost connection: Disconnected
+[07Jun2025 19:42:09.243] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manuelderosas14 left the game
+[07Jun2025 19:42:25.633] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3928ms or 78 ticks behind
+[07Jun2025 19:42:43.673] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3068ms or 61 ticks behind
+[07Jun2025 19:43:05.231] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2026ms or 40 ticks behind
+[07Jun2025 19:43:23.748] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Unemployed'/14091, l='ServerLevel[world]', x=-1293.50, y=-243.84, z=-1456.50] died, message: 'Unemployed fell out of the world'
+[07Jun2025 19:43:27.438] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 7233ms or 144 ticks behind
+[07Jun2025 19:43:46.139] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 3734ms or 74 ticks behind
+[07Jun2025 19:44:16.469] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2014ms or 40 ticks behind
+[07Jun2025 19:45:21.766] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[07Jun2025 19:46:30.701] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: manuelderosas14[/127.227.209.234:38685] logged in with entity id 16802 at (-483.5, 63.0, -795.5)
+[07Jun2025 19:46:30.736] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manuelderosas14 joined the game
+[07Jun2025 19:46:31.142] [Server thread/INFO] [Jade/]: Syncing config to manuelderosas14 (14aa20ff-6857-3dae-ba8a-62f121a2dd5b)
+[07Jun2025 19:47:23.538] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpumaricazaza lost connection: Timed out
+[07Jun2025 19:47:23.539] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpumaricazaza left the game
+[07Jun2025 19:47:30.790] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manuelderosas14 lost connection: Timed out
+[07Jun2025 19:47:30.790] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manuelderosas14 left the game
+[07Jun2025 19:48:52.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ESEAUDEKA has made the advancement [Acquire Hardware]
+[07Jun2025 19:49:00.852] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ESEAUDEKA has made the advancement [Knowledge of Death]
+[07Jun2025 19:49:00.853] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ESEAUDEKA has made the advancement [Ashes 'n Bones]
+[07Jun2025 19:50:51.884] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: JuanEmpujaland[/127.129.41.227:32959] logged in with entity id 18172 at (-479.5, 63.0, -802.5)
+[07Jun2025 19:50:51.919] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JuanEmpujaland joined the game
+[07Jun2025 19:50:52.203] [Server thread/INFO] [Jade/]: Syncing config to JuanEmpujaland (dfb0fd86-f93e-3eea-b496-ceadd4970649)
+[07Jun2025 19:50:52.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JuanEmpujaland has made the advancement [Dungeons And Combat]
+[07Jun2025 19:50:52.240] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JuanEmpujaland has made the advancement [Ice and Fire]
+[07Jun2025 19:51:43.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> CUALQUIER OPERSONA QUE SE HALLE AQUI ES MI HIJO
+[07Jun2025 19:52:02.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> c
+[07Jun2025 19:52:16.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> me falta el nido de pajaro en la cabeza
+[07Jun2025 19:52:27.091] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: manuelderosas14[/127.227.209.234:47695] logged in with entity id 18800 at (-483.5, 63.0, -795.5)
+[07Jun2025 19:52:27.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manuelderosas14 joined the game
+[07Jun2025 19:52:27.467] [Server thread/INFO] [Jade/]: Syncing config to manuelderosas14 (14aa20ff-6857-3dae-ba8a-62f121a2dd5b)
+[07Jun2025 19:52:37.814] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JuanEmpujaland was turned to stone by Gorgon
+[07Jun2025 19:52:37.815] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JuanEmpujaland has made the advancement [Your First Grave]
+[07Jun2025 19:52:37.840] [Server thread/INFO] [tombstone/]: The player JuanEmpujaland has successfully been saved
+[07Jun2025 19:52:47.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> JIJOB
+[07Jun2025 19:53:19.487] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> elias dice mano otra vez y me da una embolia
+[07Jun2025 19:53:27.335] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manuelderosas14 lost connection: Timed out
+[07Jun2025 19:53:27.335] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manuelderosas14 left the game
+[07Jun2025 19:54:00.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JuanEmpujaland has made the advancement [The Titan]
+[07Jun2025 19:54:21.384] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: manuelderosas14[/127.227.209.234:50779] logged in with entity id 19563 at (-483.5, 63.0, -795.5)
+[07Jun2025 19:54:21.425] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manuelderosas14 joined the game
+[07Jun2025 19:54:21.791] [Server thread/INFO] [Jade/]: Syncing config to manuelderosas14 (14aa20ff-6857-3dae-ba8a-62f121a2dd5b)
+[07Jun2025 19:54:41.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> elias agarro la mano de quien
+[07Jun2025 19:55:21.568] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: manuelderosas14 lost connection: Timed out
+[07Jun2025 19:55:21.568] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manuelderosas14 left the game
+[07Jun2025 19:55:30.136] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> DONDE ESTAS GORDO
+[07Jun2025 19:56:17.540] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JuanEmpujaland has made the advancement [Monster Hunter]
+[07Jun2025 19:56:52.300] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: manuelderosas14[/127.227.209.234:41729] logged in with entity id 21040 at (-483.5, 63.0, -795.5)
+[07Jun2025 19:56:52.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: manuelderosas14 joined the game
+[07Jun2025 19:56:52.669] [Server thread/INFO] [Jade/]: Syncing config to manuelderosas14 (14aa20ff-6857-3dae-ba8a-62f121a2dd5b)
+[07Jun2025 19:57:11.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> EL PVP DE ELIAS: SE SALE
+[07Jun2025 19:57:12.198] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpumaricazaza[/127.45.37.153:40101] logged in with entity id 21183 at (-837.3000000119209, 93.5625, -1326.300000011921)
+[07Jun2025 19:57:12.242] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpumaricazaza joined the game
+[07Jun2025 19:57:12.541] [Server thread/INFO] [Jade/]: Syncing config to elpumaricazaza (7ae39233-c114-3070-bb8b-0ac064bae7ae)
