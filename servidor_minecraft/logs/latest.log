@@ -391,3 +391,25 @@ com.google.gson.JsonSyntaxException: Unknown item 'dungeons_and_combat:deleted_m
 [08Jun2025 23:04:00.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpumaricazaza joined the game
 [08Jun2025 23:04:00.146] [Server thread/INFO] [Jade/]: Syncing config to elpumaricazaza (7ae39233-c114-3070-bb8b-0ac064bae7ae)
 [08Jun2025 23:07:25.514] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpumaricazaza has made the advancement [A Strange Grave Dust]
+[08Jun2025 23:37:19.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpumaricazaza has made the advancement [Ice Bucket Challenge]
+[08Jun2025 23:43:11.201] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@6736ed90[id=<null>,name=utyyy,properties={},legacy=false] (/127.146.164.183:51313) lost connection: Disconnected
+[08Jun2025 23:43:55.953] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@32600220[id=<null>,name=utyyy,properties={},legacy=false] (/127.146.164.183:59105) lost connection: Disconnected
+[08Jun2025 23:47:18.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpumaricazaza has reached the goal [Strong or Careful]
+[08Jun2025 23:47:18.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpumaricazaza was slain by Zombie
+[08Jun2025 23:47:18.892] [Server thread/INFO] [tombstone/]: The player elpumaricazaza has successfully been saved
+[08Jun2025 23:47:30.114] [Server thread/INFO] [tombstone/]: The player elpumaricazaza has successfully been saved
+[08Jun2025 23:47:30.750] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpumaricazaza was slain by Zombie
+[08Jun2025 23:47:30.759] [Server thread/INFO] [tombstone/]: The player elpumaricazaza has successfully been saved
+[08Jun2025 23:47:49.244] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpumaricazaza lost connection: Timed out
+[08Jun2025 23:47:49.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpumaricazaza left the game
+[08Jun2025 23:47:49.293] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[08Jun2025 23:48:07.115] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpumaricazaza[/127.45.37.153:39019] logged in with entity id 8697 at (1324.699999988079, 112.0625, -1981.2291429914792)
+[08Jun2025 23:48:07.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpumaricazaza joined the game
+[08Jun2025 23:48:07.179] [Server thread/INFO] [Jade/]: Syncing config to elpumaricazaza (7ae39233-c114-3070-bb8b-0ac064bae7ae)
+[08Jun2025 23:48:26.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpumaricazaza was slain by Zombie
+[08Jun2025 23:48:26.514] [Server thread/INFO] [tombstone/]: The player elpumaricazaza has successfully been saved
+[08Jun2025 23:48:37.244] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpumaricazaza lost connection: Timed out
+[08Jun2025 23:48:37.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpumaricazaza left the game
+[08Jun2025 23:49:15.756] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpumaricazaza[/127.45.37.153:48983] logged in with entity id 9233 at (1322.305127819001, 111.875, -1982.699999988079)
+[08Jun2025 23:49:15.811] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpumaricazaza joined the game
+[08Jun2025 23:49:15.812] [Server thread/INFO] [Jade/]: Syncing config to elpumaricazaza (7ae39233-c114-3070-bb8b-0ac064bae7ae)
