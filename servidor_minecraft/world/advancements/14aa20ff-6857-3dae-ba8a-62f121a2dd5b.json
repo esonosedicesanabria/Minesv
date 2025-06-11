@@ -3204,6 +3204,12 @@
     },
     "done": true
   },
+  "create:recipes/combat/crafting/appliances/netherite_diving_helmet_from_netherite": {
+    "criteria": {
+      "has_item": "2025-06-11 04:07:19 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/combat/armor_sapphire_leggings": {
     "criteria": {
       "has_item": "2025-06-11 03:49:05 +0000"
@@ -3228,9 +3234,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/stick_from_bamboo_item": {
+    "criteria": {
+      "has_bamboo": "2025-06-11 04:13:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bamboo_block": {
+    "criteria": {
+      "has_bamboo": "2025-06-11 04:13:28 +0000"
+    },
+    "done": true
+  },
   "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
     "criteria": {
       "has_dragonscales_sapphire": "2025-06-11 03:49:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/scaffolding": {
+    "criteria": {
+      "has_bamboo": "2025-06-11 04:13:28 +0000"
     },
     "done": true
   },

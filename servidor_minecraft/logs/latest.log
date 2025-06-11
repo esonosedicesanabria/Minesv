@@ -559,3 +559,48 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [11Jun2025 04:03:47.870] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> poma
 [11Jun2025 04:04:30.045] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JuanEmpujaland: Teleported JuanEmpujaland to elpumaricazaza]
 [11Jun2025 04:05:15.289] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> le daba madera para hacer puentes en la lava el tipo
+[11Jun2025 04:06:03.033] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpumaricazaza lost connection: Disconnected
+[11Jun2025 04:06:03.035] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpumaricazaza left the game
+[11Jun2025 04:06:07.857] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> yo lo vi primero
+[11Jun2025 04:06:39.828] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2015ms or 40 ticks behind
+[11Jun2025 04:06:58.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> eh?
+[11Jun2025 04:07:05.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> los minerales se suben al techo
+[11Jun2025 04:07:07.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> q carajo
+[11Jun2025 04:07:15.165] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpumaricazaza[/127.248.154.120:37515] logged in with entity id 28319 at (-2277.3025543228778, -38.0, -7663.670313148232)
+[11Jun2025 04:07:15.268] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpumaricazaza joined the game
+[11Jun2025 04:07:15.347] [Server thread/INFO] [Jade/]: Syncing config to elpumaricazaza (7ae39233-c114-3070-bb8b-0ac064bae7ae)
+[11Jun2025 04:07:18.444] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: utyyy lost connection: Disconnected
+[11Jun2025 04:07:18.444] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: utyyy left the game
+[11Jun2025 04:07:45.185] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpumaricazaza lost connection: Disconnected
+[11Jun2025 04:07:45.186] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpumaricazaza left the game
+[11Jun2025 04:07:45.238] [Server thread/WARN] [net.minecraft.network.Connection/]: handleDisconnection() called twice
+[11Jun2025 04:08:12.594] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpumaricazaza[/127.248.154.120:58465] logged in with entity id 28633 at (-2277.3025543228778, -38.0, -7663.670313148232)
+[11Jun2025 04:08:12.646] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpumaricazaza joined the game
+[11Jun2025 04:08:12.708] [Server thread/INFO] [Jade/]: Syncing config to elpumaricazaza (7ae39233-c114-3070-bb8b-0ac064bae7ae)
+[11Jun2025 04:09:54.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JuanEmpujaland was shot by Skeleton
+[11Jun2025 04:10:02.304] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> si
+[11Jun2025 04:10:10.478] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> soy malo porq 3 esqueletos jefes se me amontonan
+[11Jun2025 04:10:12.064] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpumaricazaza was blown up by Creeper
+[11Jun2025 04:10:13.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> la concha de tu madre
+[11Jun2025 04:10:16.470] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elpumaricazaza: Teleported elpumaricazaza to -2563.500000, -41.500000, -7570.500000]
+[11Jun2025 04:10:30.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JuanEmpujaland: Teleported JuanEmpujaland to elpumaricazaza]
+[11Jun2025 04:10:56.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elpumaricazaza: Teleported elpumaricazaza to JuanEmpujaland]
+[11Jun2025 04:10:57.989] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpumaricazaza lost connection: Timed out
+[11Jun2025 04:10:57.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpumaricazaza left the game
+[11Jun2025 04:11:21.940] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpumaricazaza[/127.248.154.120:34409] logged in with entity id 30688 at (-2473.401466724823, -35.99866402088785, -7639.153949480221)
+[11Jun2025 04:11:21.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpumaricazaza joined the game
+[11Jun2025 04:11:22.034] [Server thread/INFO] [Jade/]: Syncing config to elpumaricazaza (7ae39233-c114-3070-bb8b-0ac064bae7ae)
+[11Jun2025 04:11:51.986] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: elpumaricazaza lost connection: Timed out
+[11Jun2025 04:11:51.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpumaricazaza left the game
+[11Jun2025 04:11:54.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JuanEmpujaland: Teleported JuanEmpujaland to -2361.500000, -25.500000, -7706.500000]
+[11Jun2025 04:12:03.441] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [manuelderosas14: Teleported manuelderosas14 to -2236.500000, -43.500000, -7535.500000]
+[11Jun2025 04:12:29.488] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [manuelderosas14: Teleported manuelderosas14 to -2272.500000, -45.500000, -7542.500000]
+[11Jun2025 04:12:34.996] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: elpumaricazaza[/127.248.154.120:41669] logged in with entity id 31346 at (-2473.401466724823, -35.99866402088785, -7639.153949480221)
+[11Jun2025 04:12:35.043] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: elpumaricazaza joined the game
+[11Jun2025 04:12:35.082] [Server thread/INFO] [Jade/]: Syncing config to elpumaricazaza (7ae39233-c114-3070-bb8b-0ac064bae7ae)
+[11Jun2025 04:15:04.263] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JuanEmpujaland: Teleported JuanEmpujaland to 925.500000, 64.500000, -1068.500000]
+[11Jun2025 04:15:11.076] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [manuelderosas14: Teleported manuelderosas14 to -2141.500000, -49.500000, -7609.500000]
+[11Jun2025 04:15:38.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> me fui de las mis
+[11Jun2025 04:15:40.556] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> minas
+[11Jun2025 04:15:42.332] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> ahi vuelvo
+[11Jun2025 04:15:54.328] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [manuelderosas14: Teleported manuelderosas14 to -2089.500000, -32.500000, -7741.500000]
