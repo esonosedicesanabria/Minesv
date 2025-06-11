@@ -192,6 +192,7 @@
       "minecraft:vindicator": "2025-06-09 06:02:31 +0000",
       "minecraft:spider": "2025-06-09 02:12:51 +0000",
       "minecraft:creeper": "2025-06-09 02:14:21 +0000",
+      "minecraft:witch": "2025-06-11 03:58:20 +0000",
       "minecraft:cave_spider": "2025-06-10 03:15:03 +0000",
       "minecraft:stray": "2025-06-10 04:40:11 +0000",
       "minecraft:zombie": "2025-06-09 02:14:10 +0000",
@@ -3200,6 +3201,36 @@
   "iceandfire:recipes/combat/dragonarmor_iron_tail": {
     "criteria": {
       "has_the_recipe": "2025-06-10 06:37:47 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_leggings": {
+    "criteria": {
+      "has_item": "2025-06-11 03:49:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_boots": {
+    "criteria": {
+      "has_item": "2025-06-11 03:49:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_helmet": {
+    "criteria": {
+      "has_item": "2025-06-11 03:49:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/combat/armor_sapphire_chestplate": {
+    "criteria": {
+      "has_item": "2025-06-11 03:49:05 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:recipes/building_blocks/dragonscales_sapphire_to_dragonscale_sapphire": {
+    "criteria": {
+      "has_dragonscales_sapphire": "2025-06-11 03:49:05 +0000"
     },
     "done": true
   },
