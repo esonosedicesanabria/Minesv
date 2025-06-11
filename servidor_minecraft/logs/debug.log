@@ -8747,3 +8747,22 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [11Jun2025 22:16:19.438] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['JuanEmpujaland'/924, l='ServerLevel[world]', x=873.74, y=64.00, z=-1089.36]
 [11Jun2025 22:16:36.284] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/3648, l='ServerLevel[world]', x=900.74, y=64.60, z=-1071.63], dimensionLocationPath overworld
 [11Jun2025 22:16:36.284] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/3648, l='ServerLevel[world]', x=900.74, y=64.60, z=-1071.63] in list []
+[11Jun2025 22:18:52.819] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jun2025 22:18:52.829] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jun2025 22:19:54.525] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/3648, l='ServerLevel[world]', x=901.36, y=64.00, z=-1072.35, removed=UNLOADED_TO_CHUNK]
+[11Jun2025 22:23:52.789] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jun2025 22:23:52.799] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jun2025 22:26:49.336] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/8094, l='ServerLevel[world]', x=901.36, y=64.00, z=-1072.35], dimensionLocationPath overworld
+[11Jun2025 22:26:49.336] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/8094, l='ServerLevel[world]', x=901.36, y=64.00, z=-1072.35] in list []
+[11Jun2025 22:27:23.090] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [manuelderosas14: Teleported manuelderosas14 to 935.500000, 65.500000, -1088.500000]
+[11Jun2025 22:27:28.789] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> uliii
+[11Jun2025 22:27:39.275] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manuelderosas14> uliii
+[11Jun2025 22:27:47.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> TOC TOC
+[11Jun2025 22:27:53.305] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manuelderosas14> quien es
+[11Jun2025 22:27:58.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> LA GALLINA
+[11Jun2025 22:28:20.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> mostra tu dragon
+[11Jun2025 22:28:21.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> blanco
+[11Jun2025 22:28:31.823] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <manuelderosas14> no lo incuve todavia
+[11Jun2025 22:28:40.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> cuando lo haces
+[11Jun2025 22:28:52.759] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jun2025 22:28:52.768] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
