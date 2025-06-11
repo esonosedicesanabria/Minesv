@@ -433,3 +433,5 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [11Jun2025 23:23:51.397] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elpumaricazaza: Set own game mode to Survival Mode]
 [11Jun2025 23:25:42.146] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elpumaricazaza: Set own game mode to Creative Mode]
 [11Jun2025 23:26:49.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elpumaricazaza: Set own game mode to Survival Mode]
+[11Jun2025 23:32:51.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elpumaricazaza: Teleported elpumaricazaza to 2338.500000, 83.500000, -1913.500000]
+[11Jun2025 23:39:00.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elpumaricazaza: Teleported elpumaricazaza to 926.500000, 65.500000, -1101.500000]

@@ -8426,3 +8426,11 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [11Jun2025 23:26:49.406] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elpumaricazaza: Set own game mode to Survival Mode]
 [11Jun2025 23:26:57.363] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [11Jun2025 23:26:57.405] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jun2025 23:31:57.322] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jun2025 23:31:57.337] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jun2025 23:32:51.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elpumaricazaza: Teleported elpumaricazaza to 2338.500000, 83.500000, -1913.500000]
+[11Jun2025 23:34:22.109] [Worker-Main-1/DEBUG] [mixin/]: Mixing gen.WorldGenRegionMixin from iceandfire.mixins.json into net.minecraft.server.level.WorldGenRegion
+[11Jun2025 23:34:46.980] [Worker-Main-16/DEBUG] [mixin/]: Mixing BeardifierMixin from mixins.irons_spellbooks.json into net.minecraft.world.level.levelgen.Beardifier
+[11Jun2025 23:36:57.293] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[11Jun2025 23:36:57.304] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[11Jun2025 23:39:00.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [elpumaricazaza: Teleported elpumaricazaza to 926.500000, 65.500000, -1101.500000]
