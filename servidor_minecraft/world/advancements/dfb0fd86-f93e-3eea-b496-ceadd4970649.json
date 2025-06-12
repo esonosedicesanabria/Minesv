@@ -3758,6 +3758,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-06-12 04:08:43 +0000"
+    },
+    "done": true
+  },
   "create:recipes/misc/crafting/kinetics/steam_engine": {
     "criteria": {
       "has_item": "2025-06-12 03:54:17 +0000"
@@ -3785,6 +3791,12 @@
   "iceandfire:recipes/misc/ghost_chest": {
     "criteria": {
       "has_item": "2025-06-12 03:54:12 +0000"
+    },
+    "done": true
+  },
+  "iceandfire:iceandfire/dragon_meal": {
+    "criteria": {
+      "bestiary": "2025-06-12 04:15:47 +0000"
     },
     "done": true
   },

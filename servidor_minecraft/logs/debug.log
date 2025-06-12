@@ -8674,3 +8674,56 @@ Available: [Lnet/minecraft/world/item/Item;, Lnet/minecraft/world/item/ItemStack
 [12Jun2025 04:11:01.042] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> te gusta lo q le hice a mi casa ulise
 [12Jun2025 04:11:15.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> q cosa
 [12Jun2025 04:11:29.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> casi
+[12Jun2025 04:12:06.113] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/8458, l='ServerLevel[world]', x=2211.63, y=101.27, z=-1827.51], dimensionLocationPath overworld
+[12Jun2025 04:12:06.114] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/8458, l='ServerLevel[world]', x=2211.63, y=101.27, z=-1827.51] in list []
+[12Jun2025 04:12:06.636] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/8458, l='ServerLevel[world]', x=2210.85, y=101.03, z=-1827.88, removed=DISCARDED]
+[12Jun2025 04:12:07.580] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['manuelderosas14'/567, l='ServerLevel[world]', x=2212.57, y=100.00, z=-1827.02], dimensionLocationPath overworld
+[12Jun2025 04:12:07.580] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['manuelderosas14'/567, l='ServerLevel[world]', x=2212.57, y=100.00, z=-1827.02] in list []
+[12Jun2025 04:12:08.233] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['manuelderosas14'/567, l='ServerLevel[world]', x=2212.79, y=100.00, z=-1827.02]
+[12Jun2025 04:12:14.382] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['manuelderosas14'/567, l='ServerLevel[world]', x=2215.87, y=100.00, z=-1827.70], dimensionLocationPath overworld
+[12Jun2025 04:12:14.382] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['manuelderosas14'/567, l='ServerLevel[world]', x=2215.87, y=100.00, z=-1827.70] in list []
+[12Jun2025 04:12:16.100] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['manuelderosas14'/567, l='ServerLevel[world]', x=2213.07, y=100.00, z=-1827.70]
+[12Jun2025 04:12:20.291] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jun2025 04:12:20.301] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 04:15:47.537] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JuanEmpujaland has made the advancement [Dragon Growth Hormone]
+[12Jun2025 04:17:20.283] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jun2025 04:17:20.292] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 04:18:56.830] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> che ulises si conseguis toque de seda podemos hacer un desastre hermoso
+[12Jun2025 04:19:25.949] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> podrias poner los spawners de los caballeros del castillo roto y ponerlo en el farmer negro
+[12Jun2025 04:19:36.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> el de la izquierda en lo posible
+[12Jun2025 04:20:03.729] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> hay q probar
+[12Jun2025 04:20:55.934] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> mañana no, el viernes si
+[12Jun2025 04:21:10.139] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> el 2do de petroleo
+[12Jun2025 04:22:08.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: JuanEmpujaland was slain by Dread Knight
+[12Jun2025 04:22:08.343] [Server thread/DEBUG] [tombstone/]: A new grave of the player JuanEmpujaland was created at position [x:646, y:64, z:-1258, dim:minecraft:overworld]
+[12Jun2025 04:22:08.398] [Server thread/INFO] [tombstone/]: The player JuanEmpujaland has successfully been saved
+[12Jun2025 04:22:17.109] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [JuanEmpujaland: Teleported JuanEmpujaland to 646.500000, 64.500000, -1257.500000]
+[12Jun2025 04:22:20.661] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jun2025 04:22:20.672] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 04:23:26.402] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> si
+[12Jun2025 04:24:06.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> si
+[12Jun2025 04:25:10.887] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> mi invocacioon me tiro adonde los monstruos
+[12Jun2025 04:25:14.591] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> araña de mrda
+[12Jun2025 04:26:29.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [manuelderosas14: Teleported manuelderosas14 to 935.500000, 65.500000, -1088.500000]
+[12Jun2025 04:27:02.399] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> nivel 19 yo
+[12Jun2025 04:27:11.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> 8
+[12Jun2025 04:27:20.279] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jun2025 04:27:20.288] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 04:28:35.248] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> o lo escribis o lo imprimis
+[12Jun2025 04:28:37.235] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> lo otro no
+[12Jun2025 04:28:40.938] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> el 2do trabajo no
+[12Jun2025 04:28:43.588] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> solo actividades
+[12Jun2025 04:28:50.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> sip
+[12Jun2025 04:30:12.813] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ItemEntity['Torch'/15592, l='ServerLevel[world]', x=918.62, y=65.59, z=-1016.27], dimensionLocationPath overworld
+[12Jun2025 04:30:12.814] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ItemEntity['Torch'/15592, l='ServerLevel[world]', x=918.62, y=65.59, z=-1016.27] in list []
+[12Jun2025 04:30:13.499] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['manuelderosas14'/567, l='ServerLevel[world]', x=918.07, y=64.33, z=-1017.39], dimensionLocationPath overworld
+[12Jun2025 04:30:13.499] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['manuelderosas14'/567, l='ServerLevel[world]', x=918.07, y=64.33, z=-1017.39] in list [atomicstryker.dynamiclights.server.DynamicLightSourceContainer@3ce8]
+[12Jun2025 04:30:13.500] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Dynamic Lights killing off LightSource on dead Entity: ItemEntity['Torch'/15592, l='ServerLevel[world]', x=917.65, y=64.54, z=-1016.13, removed=DISCARDED]
+[12Jun2025 04:30:17.940] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['manuelderosas14'/567, l='ServerLevel[world]', x=917.57, y=63.12, z=-1016.99]
+[12Jun2025 04:30:37.935] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Calling addLightSource on entity ServerPlayer['manuelderosas14'/567, l='ServerLevel[world]', x=923.25, y=63.00, z=-1018.96], dimensionLocationPath overworld
+[12Jun2025 04:30:37.935] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Successfully registered DynamicLight on Entity: ServerPlayer['manuelderosas14'/567, l='ServerLevel[world]', x=923.25, y=63.00, z=-1018.96] in list []
+[12Jun2025 04:30:41.787] [Server thread/DEBUG] [atomicstryker.dynamiclights.server.DynamicLights/]: Removing Dynamic Light attached to ServerPlayer['manuelderosas14'/567, l='ServerLevel[world]', x=920.22, y=63.00, z=-1022.05]
+[12Jun2025 04:31:55.298] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> a eso le sumas decir los mares q hay en el mapa, los paises y eso
+[12Jun2025 04:32:20.275] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[12Jun2025 04:32:20.284] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[12Jun2025 04:32:21.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <JuanEmpujaland> si
